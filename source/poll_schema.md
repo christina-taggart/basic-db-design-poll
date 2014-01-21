@@ -1,4 +1,4 @@
-![poll schema]http://i.imgur.com/CJz3F9A.png
+![poll schema](http://i.imgur.com/CJz3F9A.png)
 
 ```
 <?xml version="1.0" encoding="utf-8" ?>
